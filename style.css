@@ -1,0 +1,36 @@
+.box {
+    width: 120px;
+    height: 120px;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    color: green;
+}
+
+h5 {
+    color: yellow;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
